@@ -10,4 +10,4 @@ hello java! hello git ~
 hello java! hello git ~
 hello java! hello git ~
 hello java! hello git ~ master test
-hello java! hello git ~
+hello java! hello git ~ hot-fix test
